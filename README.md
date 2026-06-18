@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0414-third-maximum-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0912-sort-an-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
