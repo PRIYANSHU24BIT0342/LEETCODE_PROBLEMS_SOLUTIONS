@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
