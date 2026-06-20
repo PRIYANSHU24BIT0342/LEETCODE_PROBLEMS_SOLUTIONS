@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
