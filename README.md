@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0611-valid-triangle-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
