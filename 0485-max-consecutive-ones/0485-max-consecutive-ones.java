@@ -11,7 +11,7 @@ class Solution {
                 right++;
                 maxcount=Math.max(count,maxcount);
             }
-            else if(nums[right]!=1){
+            else{
                 count=0;
                 right++;
             }
