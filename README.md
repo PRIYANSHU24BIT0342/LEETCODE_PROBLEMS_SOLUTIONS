@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
+| [2404-most-frequent-even-element](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0912-sort-an-array) |
+| [2404-most-frequent-even-element](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/PRIYANSHU24BIT0342/LEETCODE_PROBLEMS_SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
