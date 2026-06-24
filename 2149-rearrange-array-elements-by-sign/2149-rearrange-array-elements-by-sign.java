@@ -9,7 +9,7 @@ class Solution {
                     arr[positive]=nums[i];
                     positive=positive+2;
                 }
-                if(nums[i]<0){
+                else if(nums[i]<0){
                     arr[negative]=nums[i];
                     negative=negative+2;
                 }
